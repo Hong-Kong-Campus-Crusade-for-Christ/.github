@@ -12,7 +12,7 @@ Hi, we are Hong Kong Campus Crusade for Christ (HKCCC). We are a Chirstian orgni
 
 ## Get Invovled
 
-If you're looking to get involved and journey with us in mission, you can visit the folow links. 
+If you're looking to get involved and journey with us in mission, you can visit the following links. 
 
 * [Explore open projects in Indigitous Hong Kong](https://github.com/indigitoushk)
 * [Consider joining staff](https://www.hkccc.org/career/it-staff)
