@@ -8,14 +8,14 @@
     </picture>
 </div>
 
-Hi, we are Hong Kong Campus Crusade for Christ (HKCCC). We are a Chirstian orgnizaion. We hope to *journey together in mission* with you.
+Hi, we are Hong Kong Campus Crusade for Christ (HKCCC). We are a Chirstian orgnizaion. We hope to *Journey Together In Mission* with you.
 
 ## Get Invovled
 
-If you're looking to get involved and jorney us in our mission, you can visit the folow links. 
+If you're looking to get involved and journey us in our mission, you can visit the folow links. 
 
 * [Explore open projects in Indigitous Hong Kong](https://github.com/indigitoushk)
-* [Apply for staff](https://www.hkccc.org/career/it-staff)
+* [Consider joining staff](https://www.hkccc.org/career/it-staff)
 * [Support us](https://www.hkccc.org/support-us)
 
 Visit [HKCCC.org](https:/hkccc.org) to learn more about us!
