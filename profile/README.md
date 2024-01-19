@@ -6,11 +6,6 @@
         <img height="200px" alt="Logo" src="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png">
     </picture>
 </div>
-<div style="width: 100%;" align="center">
-    <picture>
-        <img height="200px" alt="Logo" src="/profile/welcome.svg">
-    </picture>
-</div>
 
 Hi, we are Hong Kong Campus Crusade for Christ (HKCCC). We are a Chirstian orgnizaion. We hope to *journey together in mission* with you.
 
