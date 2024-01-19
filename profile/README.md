@@ -1,10 +1,10 @@
 # Welcome to HKCCC github
 
-<div style="width: 100%;">
+<div style="width: 100%;" align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png">
         <source media="(prefers-color-scheme: light)" srcset="/profile/img/HKCCC Logo RGB Standard Full Color White Outline Black Text.png">
-        <img width="600" alt="Logo" src="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png">
+        <img alt="Logo" src="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png">
     </picture>
 </div>
 
