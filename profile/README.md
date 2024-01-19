@@ -3,7 +3,7 @@
 <div style="width: 100%;" align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="/profile/img/HKCCC Logo RGB Standard Full Color White Outline Black Text.png">
-        <img height="200px" alt="Logo" src="/profile/img/HKCCC Logo RGB Standard Full Color White Outline Black Text.png">
+        <img height="200px" alt="Logo" src="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png">
     </picture>
 </div>
 
