@@ -2,8 +2,9 @@
 
 <div style="width: 100%;" align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="/profile/img/HKCCC Logo RGB Standard Full Color White Outline Black Text.png">
-        <img height="200px" alt="Logo" src="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png">
+        <source media="(prefers-color-scheme: dark)" srcset="https://images.squarespace-cdn.com/content/v1/608adb210556127b394d100a/4b160f75-fc66-4b0c-833d-8e055e172661/HKCCC+Logo+RGB+Standard+Full+Color+White+Text.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/608adb210556127b394d100a/1350f32d-91c3-478a-b91a-75b9cff97b28/HKCCC+Logo+RGB+Standard+Full+Color+White+Outline+Black+Text.png">
+        <img height="200px" alt="Logo" src="https://images.squarespace-cdn.com/content/v1/608adb210556127b394d100a/4b160f75-fc66-4b0c-833d-8e055e172661/HKCCC+Logo+RGB+Standard+Full+Color+White+Text.png">
     </picture>
 </div>
 
