@@ -1,0 +1,5 @@
+# computer hidden files
+**/.DS_Store
+
+.clasp.json
+.env
