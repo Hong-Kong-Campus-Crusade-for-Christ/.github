@@ -2,9 +2,9 @@
 
 <div style="width: 100%;">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://symbolica.io/resources/completion.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://symbolica.io/resources/completion_light.png">
-        <img width="600" alt="A demo of Symbolica" src="https://symbolica.io/resources/completion.png">
+        <source media="(prefers-color-scheme: dark)" srcset="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png">
+        <source media="(prefers-color-scheme: light)" srcset="/profile/img/HKCCC Logo RGB Standard Full Color White Outline Black Text.png">
+        <img width="600" alt="Logo" src="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png">
     </picture>
 </div>
 
