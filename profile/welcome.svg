@@ -26,8 +26,8 @@
     </style>
     <div class="body">
       <div class="image-container">
-        <img src="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png" alt="Light Logo" class="light-image">
-        <img src="/profile/img/HKCCC Logo RGB Standard Full Color White Text.png" alt="Dark Logo" class="dark-image">
+        <img src="profile/img/HKCCC Logo RGB Standard Full Color White Outline Black Text.png" alt="Light Logo" class="light-image">
+        <img src="profile/img/HKCCC Logo RGB Standard Full Color White Text.png" alt="Dark Logo" class="dark-image">
 
       </div>
     </div>
