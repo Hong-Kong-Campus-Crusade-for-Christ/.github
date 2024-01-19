@@ -20,5 +20,3 @@ If you're looking to get involved and jorney us in our mission, you can visit th
 
 Visit [HKCCC.org](https:/hkccc.org) to learn more about us!
 
----
-## Connect with us
